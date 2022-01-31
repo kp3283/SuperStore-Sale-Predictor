@@ -36,9 +36,15 @@ And predict my future sales.
 
 
 ### Developing Model:
--> 
+1. Split and scale the dataset into 4 data frame of : X_train, X_test,Y_train, Y_test.
+2. We have used 2 Input layers of keras tensor (Neural Network) to train the model and predict the Sales value.
 
 
 ## Results:
-Here we conclude that the model is not functioning good even at 2048 nureons and thus we conclude that this model is not good and we need to develope more effecient model. According to the R^2 value it should be near 1.0.
+The value of prediction is near to the observed value.
+The value of coefficient of determination(i.e how much disperse the data is there in our dataset) is greater than 0 , this indicates that the prediction has not failed, but it is not the best. 
 
+# Key Learnings:
+1. Keras , one of the efficient library to build and train models.
+2. Our model can be improved by increasing the number of neurons that can increase the value of coefficient of determination.
+3. Use of Standard Scaler to scale the dataset while building the model.
