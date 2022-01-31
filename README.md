@@ -23,15 +23,19 @@ And predict my future sales.
 ![image](https://user-images.githubusercontent.com/92235451/151744540-711c648a-30eb-408e-8273-f71c38d8f932.png)
 
 4. Plot most performing segments.
+
 ![image](https://user-images.githubusercontent.com/92235451/151744588-332006e7-3171-46a6-8c4d-214aca8cad65.png)
 
 5.Plot most prefered Shipment mode.
+
 ![image](https://user-images.githubusercontent.com/92235451/151744761-b48c7897-81be-4d23-8ae6-7a5957a0e6b6.png)
 
 6.Most sold products per state.
+
 ![image](https://user-images.githubusercontent.com/92235451/151744820-8bbac1b9-a252-464e-a8a5-3378a8b45d55.png)
 
 7. Most profitable categories and sub categories.
+
 ![image](https://user-images.githubusercontent.com/92235451/151744911-ada9413c-39bb-4212-8050-f8d355521366.png)
 
 
