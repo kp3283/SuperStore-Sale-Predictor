@@ -9,10 +9,14 @@ This is a project where I  I want to find :
  
 And predict my future sales.
 
+### Data Collection: 
+This Data is collected from Kaggle Website. (https://www.kaggle.com/rohitsahoo/sales-forecasting)
+
 ### Data Exploration and Cleaning:
 
 1. We drop the following columns : 'Row ID', 'Customer Name', 'Country', 'Product Name',Order ID' and 'Customer ID'.
 2. Date is converted from character to Date format.
+3. For using few of the categorical values , I have used them by implementing onehot_encode technique. 
 
 ### Data Visualization and Analysis:
 1. We extract the month and year from the date column to independent columns.
